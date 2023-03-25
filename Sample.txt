@@ -1,1 +1,1 @@
-This is an sample file
+This is an sample file and provides basic details
